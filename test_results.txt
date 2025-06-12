@@ -1,0 +1,4 @@
+Test Case 1: Inputs=(2,3), Expected=5, Actual=5 --> PASS
+Test Case 2: Inputs=(-1,4), Expected=3, Actual=3 --> PASS
+Test Case 3: Inputs=(5,5), Expected=10, Actual=10 --> PASS
+Test Case 4: Inputs=(10,-2), Expected=8, Actual=8 --> PASS
